@@ -1,4 +1,4 @@
-huji# ai_portfolio-
+# ai_portfolio-
 My AI learning projects, and notes
 
 # AI Portfolio 👩‍💻
