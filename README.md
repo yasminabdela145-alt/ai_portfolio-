@@ -1,4 +1,4 @@
-ji# ai_portfolio-
+huji# ai_portfolio-
 My AI learning projects, and notes
 
 # AI Portfolio 👩‍💻
@@ -35,5 +35,11 @@ This repository contains my small projects as I practice and grow my programming
  
 
 ### projects 
+
 3. [To-Do List ✅](to_do_list.py)  
    A command-line app to add, view, and remove tasks.
+
+#### projects 
+
+4. [To-Do List v2 (with Save) 📂](to_do_list_v2.py)  
+   An improved version of the To-Do List app where tasks are saved in `tasks.txt`.
