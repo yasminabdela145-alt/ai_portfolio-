@@ -1,4 +1,4 @@
-# ai_portfolio-
+ji# ai_portfolio-
 My AI learning projects, and notes
 
 # AI Portfolio 👩‍💻
@@ -26,9 +26,14 @@ This repository contains my small projects as I practice and grow my programming
 - Using GitHub to organize and share my work
 
 
-#### projects
+## projects
 
 ###  Calculator ➕➖✖️➗
 - A simple calculator built with Python.  
 - Supports addition, subtraction, multiplication, and division.  
 - [Source Code](./calculator.py)
+ 
+
+### projects 
+3. [To-Do List ✅](to_do_list.py)  
+   A command-line app to add, view, and remove tasks.
